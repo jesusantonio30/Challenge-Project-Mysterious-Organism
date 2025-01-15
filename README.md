@@ -35,3 +35,7 @@ The willLikelySurvive() method checks if a specimen's DNA composition indicates 
 You can generate an array of specimens that are likely to survive by calling the pAequorSurvivors() function:
   - const survivors = pAequorSurvivors(30);
   - console.log(survivors);  // Array of surviving specimens
+
+** Technologies Used **
+
+Language: JavaScript (ES6+)
